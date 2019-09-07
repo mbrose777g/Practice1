@@ -1,1 +1,2 @@
 Inital commit MR learning new today. Having issues committing.
+Commit issue resolved. Try again.
